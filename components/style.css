@@ -1,0 +1,109 @@
+.alumni-carousel {
+    height: 427px;
+    overflow: hidden;
+    width: 1129px;
+  }
+  
+  .alumni-carousel .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 81px;
+    position: relative;
+    top: 23px;
+  }
+  
+  .alumni-carousel .div {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .alumni-carousel .rectangle {
+    background-color: #6e6e6e;
+    border-radius: 15px;
+    height: 382px;
+    position: relative;
+    width: 278px;
+  }
+  
+  .alumni-carousel .rectangle-2 {
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    height: 366px;
+    left: 10px;
+    position: absolute;
+    top: 8px;
+    width: 259px;
+  }
+  
+  .alumni-carousel .ellipse {
+    background-color: #ffffff;
+    border-radius: 65px;
+    height: 130px;
+    left: 74px;
+    position: absolute;
+    top: 61px;
+    width: 130px;
+  }
+  
+  .alumni-carousel .ellipse-2 {
+    border: 2px solid;
+    border-color: #ffffff;
+    border-radius: 80px;
+    height: 160px;
+    left: 59px;
+    position: absolute;
+    top: 46px;
+    width: 160px;
+  }
+  
+  .alumni-carousel .text-wrapper {
+    color: #ffffff;
+    font-family: "Archivo-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    height: 32px;
+    left: 107px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 250px;
+    width: 65px;
+  }
+  
+  .alumni-carousel .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Archivo-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    height: 32px;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 271px;
+    width: 142px;
+  }
+  
+  .alumni-carousel .p {
+    color: #ffffff;
+    font-family: "Archivo-Regular", Helvetica;
+    font-size: 8px;
+    font-weight: 400;
+    height: 52px;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 294px;
+    width: 217px;
+  }
+  
+  .alumni-carousel .frame-41 {
+    left: -2152px;
+  }
+  
