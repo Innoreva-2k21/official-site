@@ -25,7 +25,15 @@ const YearCalendar = () => {
 
       return (
         <yearCalendar>
-            <div className="calendar-grid ">
+          <div className='newdiv'>
+                <div className='contents'>
+                    <h1 className=' events text-white  uppercase 
+                                font-extrabold
+                             font-sans'>events
+                    </h1>
+                </div>
+            
+            <div className="calendar-grid">
               {months.map((month, index) => {
                 const firstDayOfWeek = getFirstDayOfWeek(2023, index); // Assuming the year is 2023
                 const emptyPlaceholders = Array.from({ length: firstDayOfWeek }, (_, i) => (
@@ -57,6 +65,7 @@ const YearCalendar = () => {
                 );
               })}
             </div>
+          </div>
         </yearCalendar>
       );
       };
