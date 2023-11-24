@@ -4,6 +4,7 @@ import Hero from './components/hero';
 import Heading from './components/Heading';
 import 'react-calendar/dist/Calendar.css';
 import YearCalendar from './components/YearCalendar';
+import Item from './components/Item';
 
 function App() {
   return (

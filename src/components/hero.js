@@ -11,7 +11,7 @@ function Hero() {
         NIT JAMSHEDPUR
       </div>
     
-      <div className='flex h-fit w-[90%] justify-center'>
+      <div className='flex h-fit w-[90%] justify-center mt-2'>
       <svg  xmlns="http://www.w3.org/2000/svg" width="85%" height="60%"  viewBox="0 0 1217 417" fill="none">
   <path d="M3.8158e-05 417L-7.63161e-06 9.71932H43.7183L43.7184 417H21.0061H3.8158e-05Z" fill="white"/>
   <path d="M68.776 417V9.71932H101.723L187.892 286.948L183.457 169.161V9.71932H222.107V417H190.004L106.581 137.457L109.115 240.203V417H68.776Z" fill="white"/>
