@@ -1,0 +1,28 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+/* @layer components {
+  .all-\[unset\] {
+    all: unset;
+  }
+} */
+@layer base{
+  body{
+    background-color: #14161b;
+  }
+}
+
+:root {
+  --style-1: rgba(0, 0, 22, 1);
+  --style-10: rgba(43, 43, 43, 1);
+  --style-11: rgba(63, 63, 63, 1);
+  --style-12: rgba(84, 84, 84, 1);
+  --style-2: rgba(255, 255, 255, 1);
+  --style-3: rgba(111, 111, 111, 1);
+  --style-4: rgba(248, 248, 248, 1);
+  --style-5: rgba(155, 155, 155, 1);
+  --style-6: rgba(217, 217, 217, 1);
+  --style-7: rgba(255, 251, 251, 1);
+  --style-8: rgba(0, 0, 0, 1);
+  --style-9: rgba(0, 238, 253, 1);
+}
