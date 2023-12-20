@@ -14,14 +14,14 @@ function App() {
         </div>
       </div>
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-        {/* Innoreva */}
+        
         <div className="w-[100px] h-[131px] p-6">
           <div className="fixed w-[400px] h-[131px]  top-20 left-40 [font-family:'Archivo-Bold',Helvetica] font-bold text-white text-[55px] text-center tracking-[7.00px] leading-[normal] ">
             INNOREVA INVESTORS
           </div>
         </div>
 
-        {/* Helping in the Betterment */}
+    
         <div className="w-[100px] h-[131px] " >
           <div className="fixed w-[400px] h-[131px] top-50 left-40 p-10  [font-family:'Archivo-Medium',Helvetica] font-medium text-white text-[20px] text-center tracking-[3px] leading-[normal]">
             HELPING IN THE BETTERMENT
@@ -31,7 +31,7 @@ function App() {
 
       <div className="w-[100px] mt--10 ml-40">
         <div className="fixed w-[300px] top-50 left-100 p-6">
-          {/* Investor 1 */}
+          
           <div style={{ display: 'flex', alignItems: 'center', marginBottom: '20px' }}>
             <div style={{ marginRight: '10px' }}>
               <img src="src/image folder/logo.jpeg" alt="LOGO" style={{
